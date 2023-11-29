@@ -26,10 +26,6 @@ At its core, this is a ROS2 program that runs on the esp32-s3. It subscribe to "
 
 The sensors will all use zephyr drivers.
 
-## Community
-The Holotype Community can be found on Github Discussions.
-For General discussion, 
-
 ## Contributing
 Please see our contributing.md
 
