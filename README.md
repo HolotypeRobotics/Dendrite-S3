@@ -1,7 +1,10 @@
 At the moment this repository is still in development, and hould not be used.
 
 # Dendrite-S3
-![[/workspaces/Dendrite-S3/pcb/pinout.png](https://github.com/HolotypeRobotics/Dendrite-S3/blob/main/pcb/pinout.png?raw=true)]
+<p align="center">
+  <img src="https://github.com/HolotypeRobotics/Dendrite-S3/blob/main/pcb/pinout.png" />
+</p>
+
 The Dendrite-S3 is a robotics development board powered by the ESP32-S3, featuring an on-board LiPo charge/discharge circuit, and 34 GPIO.
 
 ## Getting Started
