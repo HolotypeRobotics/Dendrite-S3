@@ -1,7 +1,7 @@
 At the moment this repository is still in development, and hould not be used.
 
 # Dendrite-S3
-https://www.tindie.com/products/holotyperobotics/dendrite-s3-robot-development-board/
+![alt text](/workspaces/Dendrite-S3/pcb/pinout.png)
 The Dendrite-S3 is a robotics development board powered by the ESP32-S3, featuring an on-board LiPo charge/discharge circuit, and 34 GPIO.
 
 ## Getting Started
