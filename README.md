@@ -15,7 +15,8 @@ The Dendrite-S3 is a robotics development board powered by the ESP32-S3, featuri
 
 - ROS2
 - VSCode with Platform.io
-- 
+  
+#### Steps
 1. **Clone the Repository**
 
 2. **Build the Project:**
